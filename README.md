@@ -1,4 +1,4 @@
-export default function Portfolio() {
+export default function Portfolio() {    
   return (
     <div className="min-h-screen bg-slate-950 text-white font-sans"> 
       {/* HERO SECTION */}
