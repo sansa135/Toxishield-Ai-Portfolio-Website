@@ -1,5 +1,4 @@
-export default function Portfolio() {    
-  return (
+
     <div className="min-h-screen bg-slate-950 text-white font-sans"> 
       {/* HERO SECTION */}
       <section className="px-8 md:px-20 py-24 bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950">
