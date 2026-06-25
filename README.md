@@ -1,4 +1,4 @@
-<div className="min-h-screen bg-black text-white font-sans">
+<div className="min-h-screen bg-black text-white font-sans">  
 
 {/* HERO */}
 <section className="px-8 md:px-20 py-28 bg-gradient-to-br from-black via-slate-900 to-cyan-950">
